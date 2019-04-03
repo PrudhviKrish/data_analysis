@@ -1,0 +1,14 @@
+,FixVersions,ReleseThemeIssueType,ReleaseThemeId,ReleseThemeSummary,EpicIssueType,EpicId,EpicSummary,StoryIsuueType,StoryId,Sprint,StorySummary
+0,Omnistack 3.7.5 (PSI 13),Release Theme,PMB-1197,Dynamic Throttling for Gen10 6000 series models (vSphere Only),Epic,VDI-1417,EUC Sizing Tool for HPE Simplivity 380,,,,
+1,Omnistack 3.7.3 (PSI 12),Release Theme,PMB-982,Dynamic Throttling for Gen10 4000 series models (vSphere Only),Epic,VDI-1417,EUC Sizing Tool for HPE Simplivity 380,,,,
+2,Omnistack 3.7.5 (PSI 13),Release Theme,PMB-1197,Dynamic Throttling for Gen10 6000 series models (vSphere Only),Epic,VDI-1653,VMware Horizon 7.3.1 on HPE SimpliVity 380 Gen 10 Reference Architecture,Story,VDI-1653,"CloudBusters PSI 15 Sprint 1, CloudBusters PSI 14 Sprint 4, CloudBusters PSI 14 Sprint 2, ",Refresh Existing Prometheus Grafana stack
+3,Omnistack 3.7.5 (PSI 13),Release Theme,PMB-1197,Dynamic Throttling for Gen10 6000 series models (vSphere Only),Epic,VDI-1653,VMware Horizon 7.3.1 on HPE SimpliVity 380 Gen 10 Reference Architecture,Story,VDI-1653,"PSI 14 Sprint 4, ",Enable full clone balancing with an existing UPGRADED full clone pool
+4,Omnistack 3.7.3 (PSI 12),Release Theme,PMB-1067,Spike: SW RAID Stack,,,,,,,
+5,Omnistack 3.7.3 (PSI 12),Release Theme,PMB-959,"Gen-10 DL380 ""Value Flash"" XLarge for VMware",,,,,,,
+6,Omnistack 3.7.3 (PSI 12),Release Theme,PMB-944,SHA-1 to SHA-2 Update - Torch,,,,,,,
+7,Torch GA,Release Theme,PMB-944,SHA-1 to SHA-2 Update - Torch,,,,,,,
+8,,,PMB-1154,,Epic,VDI-1489,Enterprise Container-as-a-Service MVI1,,,,
+9,,,PMB-1137,,Epic,VDI-1488,VDI testing and analysis for Apollo,,,,
+10,,,PMB-1104,,Epic,VDI-1456,VMware Horizon 7.3.1 on HPE SimpliVity 380 Gen 10 Reference Architecture,,,,
+11,,,,,,Not applicable,,Story,VDI-1653,"PSI 14 Sprint 3, ",V100 Deployment in DL380 Gen10
+12,,,,,,Not applicable,,Story,VDI-1653,"PSI 14 Sprint 3, ",P100 Deployment in DL380 Gen10
